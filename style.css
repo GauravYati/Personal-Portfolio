@@ -1,8 +1,9 @@
 
+
 /* hero background image */
 .bgimage {
     height:100vh;
-    background: url('https://wallpapertag.com/wallpaper/full/8/c/8/522147-most-popular-flying-eagle-wallpaper-1920x1200-for-android-tablet.jpg');
+    background: url('images/Eagle.jpg');
     background-size:cover;
     position:relative;
 }
