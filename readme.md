@@ -1,4 +1,4 @@
-# Personl Portfolio
+# Personal Portfolio
 Personal Portfolio using HTML, CSS and Bootstrap.
 It have four sections:
 1. Home
